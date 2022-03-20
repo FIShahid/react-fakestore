@@ -24,6 +24,12 @@
   color: white;
 }
 
+.react{
+  background-color: aqua;
+  color: forestgreen;
+  padding: 20px;
+  border-radius: 15px;
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +41,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.person{
+  background-color: tomato;
+  border: 3px solid green;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+}
+.persontwo{
+  background-color: darkkhaki;
+  border: 3px solid green;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 10px;
+
+  
 }
